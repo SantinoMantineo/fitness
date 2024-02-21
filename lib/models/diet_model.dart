@@ -29,7 +29,7 @@ class DietModel {
         duration: '30mins',
         calorie: '180kCal',
         viewIsSelected: true,
-        boxColor: Color(0xffC58BF2)
+        boxColor: const Color(0xffC58BF2)
       ),
     );
 
@@ -41,7 +41,7 @@ class DietModel {
         duration: '10mins',
         calorie: '330kCal',
         viewIsSelected: false,
-        boxColor: Color(0xff92A3FD)
+        boxColor: const Color(0xff92A3FD)
       ),
     );
 
